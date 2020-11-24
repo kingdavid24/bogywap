@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bogywap/static/css/main.230eeeec.chunk.css",
+    "main.js": "/bogywap/static/js/main.08234624.chunk.js",
+    "main.js.map": "/bogywap/static/js/main.08234624.chunk.js.map",
+    "runtime-main.js": "/bogywap/static/js/runtime-main.436a6fc5.js",
+    "runtime-main.js.map": "/bogywap/static/js/runtime-main.436a6fc5.js.map",
+    "static/js/2.3fc49f26.chunk.js": "/bogywap/static/js/2.3fc49f26.chunk.js",
+    "static/js/2.3fc49f26.chunk.js.map": "/bogywap/static/js/2.3fc49f26.chunk.js.map",
+    "static/js/3.21dfd573.chunk.js": "/bogywap/static/js/3.21dfd573.chunk.js",
+    "static/js/3.21dfd573.chunk.js.map": "/bogywap/static/js/3.21dfd573.chunk.js.map",
+    "index.html": "/bogywap/index.html",
+    "static/css/main.230eeeec.chunk.css.map": "/bogywap/static/css/main.230eeeec.chunk.css.map",
+    "static/js/2.3fc49f26.chunk.js.LICENSE.txt": "/bogywap/static/js/2.3fc49f26.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.436a6fc5.js",
+    "static/js/2.3fc49f26.chunk.js",
+    "static/css/main.230eeeec.chunk.css",
+    "static/js/main.08234624.chunk.js"
+  ]
+}
